@@ -1,0 +1,9 @@
+
+Verdes
+0 0 0 0 0
+Azuis
+0 0 0 0 0
+Amarelos
+0 0 0 0 0
+Vermelhos
+0 0 0 0 0

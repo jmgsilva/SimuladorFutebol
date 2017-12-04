@@ -1,0 +1,11 @@
+﻿  Origem.c
+c:\users\jmgsi\desktop\simuladorfutebol\project1\origem.c(266): warning C4047: 'return': 'int' difere em níveis de indireção de 'void *'
+c:\users\jmgsi\desktop\simuladorfutebol\project1\origem.c(438): warning C4013: 'le_pont_geral' indefinido; assumindo extern retornando int
+c:\users\jmgsi\desktop\simuladorfutebol\project1\origem.c(624): warning C4244: 'função': conversão de 'float' para 'int', possível perda de dados
+c:\users\jmgsi\desktop\simuladorfutebol\project1\origem.c(588): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+c:\users\jmgsi\desktop\simuladorfutebol\project1\origem.c(635): warning C4133: 'return': tipos incompatíveis - de 'node_jornadas *' para 'node_jogos *'
+c:\users\jmgsi\desktop\simuladorfutebol\project1\origem.c(640): warning C4133: 'return': tipos incompatíveis - de 'node_jornadas *' para 'node_jogos *'
+c:\users\jmgsi\desktop\simuladorfutebol\project1\origem.c(742): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\jmgsi\desktop\simuladorfutebol\project1\origem.c(557): warning C4716: 'le_pont_geral': deve retornar um valor
+  Project1.vcxproj -> C:\Users\jmgsi\Desktop\SimuladorFutebol\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\jmgsi\Desktop\SimuladorFutebol\Debug\Project1.pdb (Partial PDB)
